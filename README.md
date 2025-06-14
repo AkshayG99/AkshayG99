@@ -1,3 +1,4 @@
+# Incoming @ RBC
 # 💫About Me :
 🔭 I’m currently working on connecting a breast cancer AI using TensorFlow to frontend via Django
 👯 I’m looking to collaborate on full-stack and AI/ML products
