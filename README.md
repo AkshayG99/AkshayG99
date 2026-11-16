@@ -1,4 +1,4 @@
-<h1 align="center">hey 👋 I'm Akshay!</h1>
+<h1 align="center"> 👋 hey I'm Akshay! 👋</h1>
 
 <p>about me:</p>
 <ul>
@@ -17,7 +17,7 @@
   <li>reduced chip placement cost by 23.7% in <a href="https://github.com/AkshayG99/HRT-macro-place-challenge-2026">HRT's Macroplace Challenge</a> using graph neural networks and reinforcement learning</li>
 </ul>
 
-<p>I'd love to connect — feel free to reach out!</p>
+<p>Re</p>
 
 <div align="center">
   <a href="https://akshaygupta.vercel.app/">website</a>
