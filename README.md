@@ -3,7 +3,7 @@
 <p>about me:</p>
 <ul>
   <li>software engineering @ <a href="https://uwaterloo.ca/">UWaterloo</a>, with $22,000 in scholarships</li>
-  <li>machine learning researcher @ <a href="https://rbcborealis.com/">RBC Borealis</a>, working on reinforcement learning and financial tabular reasoning</li>
+  <li>Working on reinforcement learning and financial tabular reasoning</li>
   <li>part of the <a href="https://watonomous.ca/">WATonomous</a> Humanoid Team</li>
   <li>interested in AI agents, ML systems, and building software that makes research useful</li>
 </ul>
