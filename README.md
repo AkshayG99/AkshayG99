@@ -10,7 +10,7 @@
 
 <p>previously I've:</p>
 <ul>
-  <li>built an LLM router @ <a href="https://rbcborealis.com/">RBC Borealis</a> handling 10,000 requests a day, with projected savings of $100K/year</li>
+  <li>built an LLM router @ <a href="https://www.rbc.com/">RBC</a> handling 10,000 requests a day, with projected savings of $100K/year</li>
   <li>shipped AI-powered support tools @ <a href="https://www.rbc.com/">RBC</a>, including a React frontend for 7,500 employees</li>
   <li>built <a href="https://github.com/AkshayG99/norththehackers">Triviality</a>, a multi-agent math research system with Lean 4 verification, winning sponsor prizes at <a href="https://hackthenorth.com/">Hack the North</a></li>
   <li>placed 5th in the Shopify Minis Hackathon with <a href="https://github.com/AkshayG99/shopFits">ShopFit</a> and presented to Shopify's Head of Engineering, Farhan Thawar</li>
