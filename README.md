@@ -17,7 +17,7 @@
   <li>reduced chip placement cost by 23.7% in <a href="https://github.com/AkshayG99/HRT-macro-place-challenge-2026">HRT's Macroplace Challenge</a> using graph neural networks and reinforcement learning</li>
 </ul>
 
-<p>Re</p>
+<p>Lets Talk!</p>
 
 <div align="center">
   <a href="https://akshaygupta.vercel.app/">website</a>
